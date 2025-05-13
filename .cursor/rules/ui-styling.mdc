@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+### UI and Styling
+- Use modern UI frameworks (e.g., Tailwind CSS, Shadcn UI, Radix UI) for styling.
+- Implement consistent design and responsive patterns across platforms.
+

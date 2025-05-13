@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+### Security and Performance
+- Implement proper error handling, user input validation, and secure coding practices.
+- Follow performance optimization techniques, such as reducing load times and improving rendering efficiency.
+

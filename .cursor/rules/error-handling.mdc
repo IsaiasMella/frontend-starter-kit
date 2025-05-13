@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+### Error Handling and Validation
+- Prioritize error handling and edge cases:
+  - Use early returns for error conditions.
+  - Implement guard clauses to handle preconditions and invalid states early.
+  - Use custom error types for consistent error handling.
+
